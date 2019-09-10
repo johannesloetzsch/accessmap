@@ -1,0 +1,11 @@
+[submodule "accessmap/dockerfiles/accessmap-webapp"]
+	path = accessmap/dockerfiles/accessmap-webapp
+	url = https://github.com/accessmap/accessmap-webapp.git
+	branch = develop
+[submodule "accessmap/dockerfiles/accessmap-data"]
+	path = accessmap/dockerfiles/accessmap-data
+	url = https://github.com/accessmap/accessmap-data.git
+[submodule "accessmap/dockerfiles/accessmap-api"]
+	path = accessmap/dockerfiles/accessmap-api
+	url = https://github.com/accessmap/accessmap-api.git
+	branch = develop
